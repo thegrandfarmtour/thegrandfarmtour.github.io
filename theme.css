@@ -1,0 +1,18 @@
+:root{--forest:#19344a;--leaf:#355771;--cream:#faf8f2;--ink:#1c2e3b;--line:#dddfe0;--paper:#fff;--gold:#d5a640}
+body{background:var(--cream);color:var(--ink)}
+.site-header.site-header,.site-header .reference-brand,.site-header .reference-brand .brand-crop{background:#f4f3ee}.site-header{border-bottom-color:#d8dde0}
+.nav a:hover,.nav a.active{color:#19344a}.nav a.active{box-shadow:inset 0 -2px #c28c23}
+.button{background:#19344a;color:#fff}.button:hover{background:#294e6a}.nav-cta{background:#19344a}
+.hero .hero-shade{background:linear-gradient(90deg,rgba(13,30,44,.79),rgba(13,30,44,.3) 51%,rgba(13,30,44,.03) 80%)}
+.hero .hero-button{background:#e1b54f;color:#172e40;box-shadow:0 5px 18px #0c1e2938}.hero .hero-button:hover{background:#f0c96f}
+.section-heading h2,.farm-body h3,.panel-heading h2,.visit h3,.story h3,.values h3{color:#19344a}
+.kicker.dark{color:#8a611b}.section-heading a,.farm-body a,.side-link{color:#315a75}
+.farm-card,.map-panel,.side-card{border-color:#dce1e4;box-shadow:0 10px 28px #19344a0c}
+.farm-photo span{background:#19344a;color:#fff}.farm-body p,.farm-body .place,.panel-heading p,.visit p,.story p,.visit-meta{color:#53616b}
+.visit-meta b{border-color:#d4b973;color:#705014;background:#fbf7eb}.panel-icon{color:#99711f}
+.values{background:#edf1f4;border-color:#dce3e8}.values>div{border-right-color:#d4dee6}.values span{color:#98701e}.values p{color:#526371}
+.share-band{background:#19344a}.share-band .kicker{color:#e4c57e}.share-band h2{color:#fff}.light-button{background:#e1b54f;color:#172e40}.light-button:hover{background:#f0c96f}
+footer{background:#102738;color:#f0f3f5}.foot-blurb,footer p{color:#c0ccd5}footer h4{color:#e4c57e}footer>div a:not(.brand){color:#e2e9ef}footer>div a:hover{color:#f1cc72}.foot-base{border-top-color:#ffffff24;color:#b1c0cb}
+.tour-marker{background:#19344a;border-color:#e7c77c}.leaflet-popup-content strong{color:#19344a}.map-frame{background:#dce5ec}
+a:focus-visible,button:focus-visible{outline:3px solid #bb8622;outline-offset:4px}
+@media(max-width:700px){.hero .hero-shade{background:linear-gradient(90deg,rgba(13,30,44,.84),rgba(13,30,44,.4) 75%,rgba(13,30,44,.17))}}
